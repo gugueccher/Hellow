@@ -1,0 +1,26 @@
+body{background-color: #5e9188; background-image: url('img/cachorro');}
+    
+h1{color: rgb(32, 28, 28);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 0;
+    border: 3px solid;color: #3e5954;}
+
+
+p{color: rgb(32, 28, 28);
+    background-color: #3e5954;
+    font-family: arial black;
+    padding: 1px;}
+
+h2{color:rgb(32, 28, 28);background-color: rgb(47, 85, 59);
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+table, th, td{color: rgb(32, 28, 28);
+                border: 1px solid #3e5954;
+                text-align: center;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}     
+
+header{color: #3e5954;
+        text-align: center;
+        border: 3px solid #3e5954;
+        padding: 0;
+        }
